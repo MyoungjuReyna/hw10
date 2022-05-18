@@ -36,4 +36,10 @@ section{
     header {
         background-color: pink;
     }
+
+    section {
+
+        font-size: 18px;
+
+    }
 }
