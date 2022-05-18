@@ -49,6 +49,18 @@ h1 {
     text-align: center;
 }
 
+@media (max-width:940px) {
+    article {
+        width: 100%;
+
+    }
+}
+
+@media (min-width:400px) and (max-width:600px) {
+    header{
+        background-color:tomato;
+    }
+}
 @media print {
 
     nav,footer {
